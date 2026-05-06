@@ -3,6 +3,13 @@
 一个强大的 Sing-box 自动化部署工具，支持SS/HY2/TUIC/VLESS Reality 协议自选部署和线路机 VLESS Reality 中转的完整解决方案。
 
 ---
+## ✅ 一键部署命令
+
+安装全功能 sing-box：
+
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/JasonV001/singbox-a/main/install-singbox-yyds.sh)"
+
 
 ## ✨ 主要特性
 
@@ -24,9 +31,3 @@
 - ✅ **完整链接** - 生成可用的 VLESS Reality 客户端链接
 
 
-## ✅ 一键部署命令
-
-安装全功能 sing-box：
-
-```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/caigouzi121380/singbox-deploy/main/install-singbox-yyds.sh)"
