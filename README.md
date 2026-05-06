@@ -9,7 +9,7 @@
 
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/JasonV001/singbox-a/main/install-singbox-yyds.sh)"
-
+```
 
 ## ✨ 主要特性
 
